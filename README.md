@@ -32,10 +32,6 @@ A modern and fully responsive personal portfolio website built using HTML and CS
 
 A clean and modern portfolio designed to represent my skills and projects professionally.
 
-## 🔗 Live Demo
-
-https://your-portfolio-link.netlify.app
-
 ## 👩‍💻 Author
 
 Hari Priya
